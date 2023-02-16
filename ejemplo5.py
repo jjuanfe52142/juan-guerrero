@@ -1,0 +1,11 @@
+nombre= input("cual es su nombre ")
+print("hola",nombre )
+edad= float ("cual es su nombre ")
+print(edad," es un numero de la suerte")
+gustos= input("que te gusta hacer")
+print("hola",gustos)
+print(nombre, "vamos a relizar una suma ")
+num1=float("digita el primer numero : ")
+num2=float("digita el segundo numero : ")
+suma = num1 + num2
+print(nombre, "el resultado de la suma es...", suma )
